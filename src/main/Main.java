@@ -39,4 +39,24 @@ public class Main extends JFrame
 	{
 		new Main() ;
 	}
+
+	public static void addAngle1()
+	{
+		mainPanel.addAngle1() ;
+	}
+	
+	public static void reduceAngle1()
+	{
+		mainPanel.reduceAngle1() ;
+	}
+	
+	public static void addAngle2()
+	{
+		mainPanel.addAngle2() ;
+	}
+	
+	public static void reduceAngle2()
+	{
+		mainPanel.reduceAngle2() ;
+	}
 }
